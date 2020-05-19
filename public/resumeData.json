@@ -2,16 +2,16 @@
   "main": {
     "name":"Winnie Wangui Kariuki",
     "occupation":"Software Engineer",
-    "description":"I am a passionate full stack developer with One year experience",
+    "description":"I am a passionate Software Engineer with 2 years of experience in full-stack web development and Software Quality Assurance who enjoys working in diverse engineering teams. I not only have an interest in writing code that works but also ensuring that the code I write is of high standard by constantly testing the code and also  testing the user experience . I enjoy writing unit tests as well as end to end testing.",
     "image":"professional.png",
-    "bio":"I enjoy mainly working as a frontend developer. The technologies that I enjoy working with is ReactJs, Redux and TypeScript as of  the frontend and python Django as of Backend. In addition to that, I really enjoy working in a diverse and distributed teams. One thing I love  about my job is the everyday learning  which I enjoy since I love growth. I am also a fast learner which is something some of the people I have worked with recognise. ",
+    "bio":"I am a passionate Software Engineer with 2 years of experience in full-stack web development and Software Quality Assurance who enjoys working in diverse engineering teams. I not only have an interest in writing code but also ensuring that the code I write is of high standards by constantly testing the code and also the user experience. I enjoy writing unit tests as well as an end to end testing.",
     "contactmessage":"Kindly reach out to me through the contacts below if you need any of my services",
     "email": "winniekariuki48@gmail.com/ winniekariuki07@gmail.com",
     "phone": "+254707453758",
     "address":{
       "city":"Nairobi"
     },
-    "resumedownload":"https://drive.google.com/file/d/1F-wkVZErNd8o4Kflj1pjwKX_yAfiByQ4/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1GaUP0jxKUsgpgiqls_nVYMiA08fkxxCe/view?usp=sharing",
     "social":[
       {
         "name":"twitter",
@@ -44,6 +44,12 @@
       }
     ],
     "work":[
+      {
+        "company":"Powered by People",
+        "title":"Software Engineer ",
+        "years":"February 2020 - May 2020",
+        "description":"My main role in powered by people was to develop a business platform that plans, manages, and tracks decentralized manufacturing as well as trace the supply chain. I was actively involved in both backend and frontend but mainly specialized in frontend. During my time at powered by people, I have managed to deliver some of the critical features such as creating a dashboard with analysis of the user’s data, reading and writing to external data file formats such as  CSV files. I also developed a Gantt chart, bar chart, and line chart visualization feature using google charts. Working in Powered by people has given me the experience of working at a very high level and powerful product while focusing on the user’s satisfaction hence growing my skills and  efficiency in problem-solving."
+      },
       {
         "company":"Andela Limited Kenya",
         "title":"Software Engineer ",
@@ -86,6 +92,14 @@
       },
       {
         "name":"TypeScript",
+        "level":"80%"
+      },
+      {
+        "name":"React Hooks",
+        "level":"80%"
+      },
+      {
+        "name":"Material UI",
         "level":"80%"
       }
     ]
